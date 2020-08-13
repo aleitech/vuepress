@@ -11,6 +11,8 @@
   <a href="https://discordapp.com/invite/HBherRA"><img src="https://img.shields.io/badge/Discord-join%20chat-738bd7.svg" alt="VuePress channel on Discord"></a>
 </p>
 
+## first commit by leimq
+
 ## Install
 
 ```bash
